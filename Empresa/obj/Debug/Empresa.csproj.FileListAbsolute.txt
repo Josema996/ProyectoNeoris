@@ -1,0 +1,76 @@
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.CopyComplete
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Empresa.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Datos.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\Dominio.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.csproj.CopyComplete
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\Empresa-de-Viajes-Neoris-main\TP\Empresa\obj\Debug\Empresa.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.CopyComplete
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.exe
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.exe
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Empresa.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Datos.dll.config
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\Dominio.dll.config
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.xml
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.SuggestedBindingRedirects.cache
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.csproj.CopyComplete
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.exe
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Empresa\obj\Debug\Empresa.pdb

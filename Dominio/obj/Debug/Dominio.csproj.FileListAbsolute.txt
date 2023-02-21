@@ -1,0 +1,36 @@
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\obj\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Empresa-de-Viajes-Neoris-main\TP\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.dll
+C:\Users\aguer\OneDrive\Escritorio\proyectos de C#\Utn\clone\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.dll
+C:\Users\aylen\OneDrive\Documentos\GitHub\repoNeoris\tpGrupo2\Dominio\obj\Debug\Dominio.pdb
